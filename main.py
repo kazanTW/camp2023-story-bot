@@ -5,7 +5,7 @@ import telebot
 from datetime import date, datetime, time
 from pytz import timezone
 
-API_TOKEN = '6062089972:AAE2HvFkNJlSNualjVSXE472SLDp8hnGlZI'
+API_TOKEN = 'TOKEN'
 
 bot = telebot.TeleBot(API_TOKEN)
 chat_id = -1001967255559
