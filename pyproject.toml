@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "camp2023-story-bot"
+version = "0.1.0"
+description = "Auto-sending bot for story in SITCON Camp 2023"
+authors = ["Kazan <andyswebking@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+packages = [{include = "camp2023_story_bot"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pytelegrambotapi = "^4.12.0"
+schedule = "^1.2.0"
+pytz = "^2023.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
