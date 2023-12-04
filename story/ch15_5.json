@@ -1,0 +1,47 @@
+[
+ {
+  "id": "ch15.5-1",
+  "story": "綠葉：\n靠著大家的探索，總算找到密碼在哪裡了……",
+  "note": "no"
+ },
+ {
+  "id": "ch15.5-2",
+  "story": "TC：\n不過密碼長的好奇怪喔？",
+  "note": "no"
+ },
+ {
+  "id": "ch15.5-3",
+  "story": "Justin：\n`aHR0cHM6Ly9yYi5neS9hdjJ6aw0=`……？\n看不懂……",
+  "note": "no"
+ },
+ {
+  "id": "ch15.5-4",
+  "story": "火山：嗯？這個樣子……\nDenny，這是 base64 對嗎？",
+  "note": "no"
+ },
+ {
+  "id": "ch15.5-5",
+  "story": "Denny：\n是，就是 base64",
+  "note": "no"
+ },
+ {
+  "id": "ch15.5-6",
+  "story": "Arnoldsky：\n拿到密碼竟然還是加密過的……\n艦艇當初到底是誰設計的啦XD",
+  "note": "no"
+ },
+ {
+  "id": "ch15.5-7",
+  "story": "眾人一致轉頭看向 Denny。",
+  "note": "no"
+ },
+ {
+  "id": "ch15.5-8",
+  "story": "Denny：\n看我幹嘛？不安全一點難道要讓人天天入侵嗎w",
+  "note": "no"
+ },
+ {
+  "id": "ch15.5-9",
+  "story": "Arnoldsky：\n也是啦XD\n那我現在就立刻進行解密！",
+  "note": "no"
+ }
+]

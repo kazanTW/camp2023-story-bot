@@ -10,8 +10,6 @@ packages = [{include = "camp2023_story_bot"}]
 [tool.poetry.dependencies]
 python = "^3.11"
 pytelegrambotapi = "^4.12.0"
-schedule = "^1.2.0"
-pytz = "^2023.3"
 
 
 [build-system]
